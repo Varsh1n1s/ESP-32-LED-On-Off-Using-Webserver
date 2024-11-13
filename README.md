@@ -13,8 +13,8 @@ This project uses the ESP32 to create a web server that allows users to control 
 
 ## Components
 - **ESP32**
-- **4 LEDs**
-- **Resistors** for LEDs
+- **4 LEDs(Red, Green, Blue, White)**
+- **Resistors(100 ohms)** for LEDs
 - **Breadboard and Jumper Wires**
 
 ## Getting Started
