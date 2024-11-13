@@ -1,7 +1,5 @@
 # ESP-32-LED-On-Off-Using-Webserver
 
-# ESP32 Web Server with Extended LED Control
-
 This project is inspired by [Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-web-server-arduino-ide/) and expands upon it by adding two additional LEDs to control through the web interface.
 
 ## Project Overview
